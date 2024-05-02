@@ -1,1 +1,1 @@
-#SQA-Manual-Testing-Amazon-Ecommerce
+SQA-Manual-Testing-Amazon-Ecommerce
