@@ -16,29 +16,3 @@ Welcome to the www.othoba.com manual testing documentation repository. This repo
  ## Mind Map
 
  ![User Management](https://github.com/FarhanaAntora/Manual_Testing_Othoba/assets/96485899/d611782e-a987-4fc1-9e21-7565dc8843b2)
-
-
-
-
- ## Test Case
-
- ![Testcase](https://github.com/FarhanaAntora/Manual_Testing_Othoba/assets/96485899/c81b7a41-7091-4da7-b543-b4e2946209a6)
-
-
-
-  ## Test Report
-
-  
- ![Report](https://github.com/FarhanaAntora/Manual_Testing_Othoba/assets/96485899/a97857af-c349-4e69-8503-aee17a5a0148)
-
-
- ## Bug Report
-
- 
-![Bug_Report](https://github.com/FarhanaAntora/Manual_Testing_Othoba/assets/96485899/eed2f980-d3b4-4aac-b130-41ebf0ffc76d)
-
-
-## Test Metrics
-
-
-![TestMatrics](https://github.com/FarhanaAntora/Manual_Testing_Othoba/assets/96485899/e4287712-97f0-4dc7-ab72-abd16b6eeca4)

@@ -10,10 +10,6 @@ A test plan is a detailed document which describes software testing areas and ac
 - Different testing will be performed like system testing(functional testing, usability testing), acceptance testing (regression testing)
 - The tests will be performed under different criteria 
 
-Details is available [here](https://docs.google.com/spreadsheets/d/1CNG0NNkNq4H9E3tuRRgq-OKSS-IIs1i-/edit?usp=sharing&ouid=104145674315039602633&rtpof=true&sd=true).
-
-![test plan for pathao.com](images/test_plan.png "test plan")
-
 ## Test Cases
 
 The test case is defined as a group of conditions under which a tester determines whether a software application is working as per the customer's requirements or not. Test case designing includes preconditions, case name, input conditions, and expected result. A test case is a first level action and derived from test scenarios. Here I have included some possible test cases for pathao.com.
@@ -29,10 +25,6 @@ The test case is defined as a group of conditions under which a tester determine
 - `actual result`: the outcomes we got for the corresponding test case
 - `status`: if expected and actual results are same it is `passed`; otherwise `failed`
 
-Details is available [here](https://docs.google.com/spreadsheets/d/1-jbPIuMbA6TBvJsxZOpZzJhve1MiQ-2OHGFxowYikxs/edit?usp=sharing).
-
-![test cases for pathao.com](images/test_case.png "test cases")
-
 ## Bug Report
 
 
@@ -41,7 +33,3 @@ A bug report contains device logs, stack traces, and other diagnostic informatio
 - Found several bugs at the time of test cases been executed
 - Each report says for which test case this bug has been reported
 - Contains also reproducing steps and others info
-
-Details is available [here](https://docs.google.com/spreadsheets/d/1VHPfVS-djt2vINDgmdx7VgxiFOsQM8on_8A42lyj1K0/edit?usp=sharing).
-
-![bug report for pathao.com.co](images/bug_report.png "bug report")

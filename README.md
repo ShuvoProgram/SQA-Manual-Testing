@@ -6,6 +6,7 @@ It is a sample repo containing manual testing for different software systems. Th
 
 - mobileaction [details](mobileaction-testcases/README.md)
 - onethread [details](onethread-testcases/README.md)
+- othoba [details](othoba-testcase/README.md)
 - pathao [details](pathao-testcases/README.md)
 - rokomari [details](rokomari-testcases/README.md)
 - easypay [details](https://docs.google.com/spreadsheets/d/1HpGKfdVz2oMZbJdpuwNpcEpuRoI_sc8L4kYYZk8Fgb4/edit?usp=drive_link)

@@ -10,9 +10,6 @@ A Test Plan is a detailed document that catalogs the test strategies, objectives
 - Different testing will be performed like system testing(functional testing, usability testing), acceptance testing (regression testing)
 - The tests will be performed under different criteria 
 
-Details is available [here](https://docs.google.com/spreadsheets/d/1y2eOTXE-JFpqS1LmiLmtU0Lrkp1gBEah/edit?usp=sharing&ouid=104145674315039602633&rtpof=true&sd=true).
-
-![test plan for onethread.com](images/test-plan.png "test plan")
 
 ## Test Cases
 
@@ -29,10 +26,6 @@ A test case is a document, which has a set of test data, preconditions, expected
 - `actual result`: the outcomes we got for the corresponding test case
 - `status`: if expected and actual results are same it is `passed`; otherwise `failed`
 
-Details is available [here](https://docs.google.com/spreadsheets/d/1vCBrq8Z9X0OwGRXDi4OwAO9XdZtD1TASxqcFVElFXs4/edit#gid=1621723119).
-
-![test cases for onethread.com](images/test_case.png "test cases")
-
 ## Bug Report
 
 
@@ -41,7 +34,3 @@ A software bug report contains specific information about what is wrong and what
 - Found several bugs at the time of test cases been executed
 - Each report says for which test case this bug has been reported
 - Contains also reproducing steps and others info
-
-Details is available [here](https://docs.google.com/spreadsheets/d/1YSdX1VMvFdkhMriN-yThnRkTncY4XSN4ZtF22yYx16M/edit?usp=sharing).
-
-![bug report for onethread.com.co](images/bug_report.png "bug report")

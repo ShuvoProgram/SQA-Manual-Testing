@@ -10,10 +10,6 @@ A test plan is a document that consists of all future testing-related activities
 - Different testing will be performed like system testing(functional testing, usability testing), acceptance testing (regression testing)
 - The tests will be performed under different criteria 
 
-Details is available [here](https://docs.google.com/spreadsheets/d/1n6vvMRFRXZdzQzZp8G9cXkXClEQSlWM3/edit?usp=sharing&ouid=104145674315039602633&rtpof=true&sd=true).
-
-![test plan for rokomari.com](images/test_plan.png "test plan")
-
 ## Test Cases
 A test case is a specification of the inputs, execution conditions, testing procedure, and expected results that define a single test to be executed to achieve a particular software testing objective, such as to exercise a particular program path or to verify compliance with a specific requirement. Here I have included some possible test cases for rokomari.com.
 
@@ -28,10 +24,6 @@ A test case is a specification of the inputs, execution conditions, testing proc
 - `actual result`: the outcomes we got for the corresponding test case
 - `status`: if expected and actual results are same it is `passed`; otherwise `failed`
 
-Details is available [here](https://docs.google.com/spreadsheets/d/183Pgj3rrE3bLRveXWrOaQdo9g08yqGvOlmt5YrTBOkM/edit?usp=sharing).
-
-![test cases for rokomari.com](images/test_case.png "test cases")
-
 ## Bug Report
 
 Bug reporting is an integral part of software testing as it helps to identify and document any issues that arise during the process. By using a Bug report, testers can track the progress of their work and compare results over time. In this section I included the bug reports for the performed test cases previously rokomari.com.
@@ -39,7 +31,3 @@ Bug reporting is an integral part of software testing as it helps to identify an
 - Found several bugs at the time of test cases been executed
 - Each report says for which test case this bug has been reported
 - Contains also reproducing steps and others info
-
-Details is available [here](https://docs.google.com/spreadsheets/d/1gI55oQh-m1BbOlv64yqLrFdZGjzagSQeY2NzA1dn1kY/edit?usp=sharing).
-
-![bug report for rokomari.com.co](images/bug_report.png "bug report")
